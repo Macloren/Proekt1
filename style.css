@@ -420,6 +420,7 @@ line-height: 24px;
 	.right__card > img {
 		width: 102px;
 		height: 102px;
+		object-fit: cover;
 	}
 	.card__pushkin {
 		margin-left: 16px;
